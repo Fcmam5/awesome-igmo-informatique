@@ -33,6 +33,9 @@ Modules:
 * ## [Aspects Juridiques]()
   * Cours:
     * [Cours Aspects_Juridiques v1](https://www.facebook.com/groups/391795971018696/435750643289895/) - Nesrine
+    * 
+    * 
+    * [Resumer](https://drive.google.com/drive/folders/0B0Fv9X0lrjMTT2xMei1pdHFRTzA) - Sarah 
 
   * Sujets:
     *
