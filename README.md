@@ -1,0 +1,153 @@
+# S4 Informatique ALL In One
+Here you can find everything,
+
+## Collections:
+[Google Drive: S4 Informatique Cours, TD, TP..](https://www.facebook.com/groups/391795971018696/permalink/427959964068963/) - Nesrine
+
+Modules:
+* ## [SE]()
+  * ### Cours:
+    * [se.zip](https://www.facebook.com/groups/391795971018696/466370266894599/) - Lamia
+    *
+    *
+    *
+  * ### TD:
+    * [Fiche de TD Fichiers](https://www.facebook.com/groups/391795971018696/465529036978722/) - Abdeldjalil
+    *
+    *
+    *
+  * ### Sujets:
+    * [Abdou: SE.rar](https://www.facebook.com/groups/391795971018696/465139307017695/) - Abdou Yagoubi
+    * [Rattrapage 2013](https://www.facebook.com/groups/391795971018696/464616010403358/) - Ryane
+    * [Exam 2013](https://www.facebook.com/groups/391795971018696/464615817070044/) - Ryane
+    * [CC 2 TD 2016](https://www.facebook.com/groups/391795971018696/464615703736722/) - Ryane
+    * [Past exams of SE](https://www.facebook.com/groups/391795971018696/permalink/461397697391856/) - Khadidja
+  * ### Additional Links
+    * [Optimal Page replacement](https://www.youtube.com/watch?v=XmdgDHhx0fg&ab_channel=TechXArena) - Ryane
+    * 
+    *
+    
+    
+* ## [Aspects_Juridiques]()
+  * ### Cours:
+    *
+    *
+    *
+    *
+  * ### TD:
+    *
+    *
+    *
+    *
+  * ### Sujets:
+    *
+    *
+    *
+  * ### Additional Links
+    *
+    *
+    *
+  
+  
+* ## [BDD]()
+  * ### Cours:
+    * [Rajaa: Cours BDD](https://www.facebook.com/groups/391795971018696/permalink/465534273644865/) - Rajaa
+    *
+    *
+    *
+  * ### TD:
+    * [Rajaa: TD BDD](https://www.facebook.com/groups/391795971018696/permalink/465534570311502/) - Rajaa
+    *
+    *
+    *
+  * ### Sujets:
+    * [BDD exam](https://www.facebook.com/groups/391795971018696/permalink/464414217090204/) - Lamia
+    *
+    *
+  * ### Additional Links
+    * [Dependance fonctionnelle DF](http://www.lsis.org/sellamis/CBD%20S3.pdf) - Amine
+    *
+    *
+  
+* ## [Réseaux]()
+  * ### Cours:
+    * [les cours et tds de reseau.(cahier de Rajaa Ghalima)](https://www.facebook.com/groups/391795971018696/465708890294070/) - Hichem
+    *
+    *
+    *
+  * ### TD:
+    *
+    *
+    *
+    *
+  * ### Sujets:
+    * [les deux cc de l'annee derniere avec leur corrigé](https://www.facebook.com/groups/391795971018696/465471150317844/) - Oulmase
+    * [Examens et ccs de Réseaux de communication](https://www.facebook.com/groups/391795971018696/permalink/464411693757123/) - Lamia
+    * [2ème test_examen+ corrigé_2015 réseau](https://www.facebook.com/groups/391795971018696/461396487391977/) - Khadidja
+  * ### Additional Links
+    * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg)
+    *
+    *
+  
+* ## [THG]()
+  * ### Cours:
+    *
+    *
+    *
+    *
+  * ### TD:
+    *
+    *
+    *
+    *
+  * ### Sujets:
+    * [Exam THG](https://www.facebook.com/groups/391795971018696/permalink/464410267090599/) - Lamia
+    * [THG Exam](https://www.facebook.com/groups/391795971018696/permalink/464891957042430/) - Sihem
+    *
+  * ### Additional Links
+    * [Revision theorie des graphe en MOOC](https://www.facebook.com/groups/391795971018696/permalink/466124713585821/) - Ilyes
+    *
+    *
+  
+  
+* ## [GL]()
+  * ### Cours:
+    * [Etude OMT](https://www.facebook.com/groups/391795971018696/461303504067942/) - Mokhtar
+    *
+    *
+    *
+  * ### TD:
+    *
+    *
+    *
+    *
+  * ### Sujets:
+    * [GL exam](https://www.facebook.com/groups/391795971018696/permalink/464423283755964/) - Lamia
+    *
+    *
+  * ### Additional Links
+    * [UML en Français](http://uml.free.fr) - Abdeldjalil
+    *
+    *
+  
+
+* ## [DevWeb]()
+  * ### Cours:
+    *
+    *
+    *
+    *
+  * ### TD:
+    *
+    *
+    *
+    *
+  * ### Sujets:
+    * [DevWeb exam](https://www.facebook.com/groups/391795971018696/permalink/464892170375742/) - Sihem
+    *
+    *
+  * ### Additional Links
+    * [Quizz HTML/CSS - PHP/MySQL](http://www.qcmquiz.com/QUESTIONNAIRES/QCM-Langage-Informatique-HTML5-CSS3.php) - Khadidja
+    *
+    *
+  
