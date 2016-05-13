@@ -2,7 +2,9 @@
 Here you can find everything,
 
 ## Collections:
-[Google Drive: S4 Informatique Cours, TD, TP..](https://www.facebook.com/groups/391795971018696/permalink/427959964068963/) - Nesrine
+* [Google Drive: S4 Informatique Cours, TD, TP..](https://www.facebook.com/groups/391795971018696/permalink/427959964068963/) - Nesrine
+* [Cours/TD BDD on Mme Meziane's Website](https://sites.google.com/site/inforanbdd)
+* :rotating_light: some files were uploaded directly to this repository (example: [SE/sujets](https://github.com/Fcmam5/awsome-igmo-informatique/tree/master/SE/sujets))
 
 Modules:
 * ## [SE]()
@@ -24,10 +26,10 @@ Modules:
     * [Past exams of SE](https://www.facebook.com/groups/391795971018696/permalink/461397697391856/) - Khadidja
   * Additional Links
     * [Optimal Page replacement](https://www.youtube.com/watch?v=XmdgDHhx0fg&ab_channel=TechXArena) - Ryane
-    * 
     *
-    
-    
+    *
+
+
 * ## [Aspects_Juridiques]()
   * Cours:
     *
@@ -47,10 +49,11 @@ Modules:
     *
     *
     *
-  
-  
+
+
 * ## [BDD]()
   * Cours:
+    * [Cours/TD BDD part 1](https://sites.google.com/site/inforanbdd)
     * [Rajaa: Cours BDD](https://www.facebook.com/groups/391795971018696/permalink/465534273644865/) - Rajaa
     *
     *
@@ -68,7 +71,7 @@ Modules:
     * [Dependance fonctionnelle DF](http://www.lsis.org/sellamis/CBD%20S3.pdf) - Amine
     *
     *
-  
+
 * ## [Réseaux]()
   * Cours:
     * [les cours et tds de reseau.(cahier de Rajaa Ghalima)](https://www.facebook.com/groups/391795971018696/465708890294070/) - Hichem
@@ -88,7 +91,7 @@ Modules:
     * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg)
     *
     *
-  
+
 * ## [THG]()
   * Cours:
     *
@@ -108,8 +111,8 @@ Modules:
     * [Revision theorie des graphe en MOOC](https://www.facebook.com/groups/391795971018696/permalink/466124713585821/) - Ilyes
     *
     *
-  
-  
+
+
 * ## [GL]()
   * Cours:
     * [Etude OMT](https://www.facebook.com/groups/391795971018696/461303504067942/) - Mokhtar
@@ -129,7 +132,7 @@ Modules:
     * [UML en Français](http://uml.free.fr) - Abdeldjalil
     *
     *
-  
+
 
 * ## [DevWeb]()
   * Cours:
@@ -150,4 +153,3 @@ Modules:
     * [Quizz HTML/CSS - PHP/MySQL](http://www.qcmquiz.com/QUESTIONNAIRES/QCM-Langage-Informatique-HTML5-CSS3.php) - Khadidja
     *
     *
-  
