@@ -30,17 +30,10 @@ Modules:
     *
 
 
-* ## [Aspects_Juridiques]()
+* ## [Aspects Juridiques]()
   * Cours:
-    *
-    *
-    *
-    *
-  * TD:
-    *
-    *
-    *
-    *
+    * [Cours Aspects_Juridiques v1](https://www.facebook.com/groups/391795971018696/435750643289895/) - Nesrine
+
   * Sujets:
     *
     *
@@ -140,8 +133,8 @@ Modules:
     *
     *
     *
-  * TD:
-    *
+  * TP:
+    * [Yagoubi Abdou's homework](https://www.facebook.com/groups/391795971018696/446053262259633/) - Yagoubi Abdou
     *
     *
     *
