@@ -6,147 +6,147 @@ Here you can find everything,
 
 Modules:
 * ## [SE]()
-  * ### Cours:
+  * Cours:
     * [se.zip](https://www.facebook.com/groups/391795971018696/466370266894599/) - Lamia
     *
     *
     *
-  * ### TD:
+  * TD:
     * [Fiche de TD Fichiers](https://www.facebook.com/groups/391795971018696/465529036978722/) - Abdeldjalil
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     * [Abdou: SE.rar](https://www.facebook.com/groups/391795971018696/465139307017695/) - Abdou Yagoubi
     * [Rattrapage 2013](https://www.facebook.com/groups/391795971018696/464616010403358/) - Ryane
     * [Exam 2013](https://www.facebook.com/groups/391795971018696/464615817070044/) - Ryane
     * [CC 2 TD 2016](https://www.facebook.com/groups/391795971018696/464615703736722/) - Ryane
     * [Past exams of SE](https://www.facebook.com/groups/391795971018696/permalink/461397697391856/) - Khadidja
-  * ### Additional Links
+  * Additional Links
     * [Optimal Page replacement](https://www.youtube.com/watch?v=XmdgDHhx0fg&ab_channel=TechXArena) - Ryane
     * 
     *
     
     
 * ## [Aspects_Juridiques]()
-  * ### Cours:
+  * Cours:
     *
     *
     *
     *
-  * ### TD:
+  * TD:
     *
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     *
     *
     *
-  * ### Additional Links
+  * Additional Links
     *
     *
     *
   
   
 * ## [BDD]()
-  * ### Cours:
+  * Cours:
     * [Rajaa: Cours BDD](https://www.facebook.com/groups/391795971018696/permalink/465534273644865/) - Rajaa
     *
     *
     *
-  * ### TD:
+  * TD:
     * [Rajaa: TD BDD](https://www.facebook.com/groups/391795971018696/permalink/465534570311502/) - Rajaa
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     * [BDD exam](https://www.facebook.com/groups/391795971018696/permalink/464414217090204/) - Lamia
     *
     *
-  * ### Additional Links
+  * Additional Links
     * [Dependance fonctionnelle DF](http://www.lsis.org/sellamis/CBD%20S3.pdf) - Amine
     *
     *
   
 * ## [Réseaux]()
-  * ### Cours:
+  * Cours:
     * [les cours et tds de reseau.(cahier de Rajaa Ghalima)](https://www.facebook.com/groups/391795971018696/465708890294070/) - Hichem
     *
     *
     *
-  * ### TD:
+  * TD:
     *
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     * [les deux cc de l'annee derniere avec leur corrigé](https://www.facebook.com/groups/391795971018696/465471150317844/) - Oulmase
     * [Examens et ccs de Réseaux de communication](https://www.facebook.com/groups/391795971018696/permalink/464411693757123/) - Lamia
     * [2ème test_examen+ corrigé_2015 réseau](https://www.facebook.com/groups/391795971018696/461396487391977/) - Khadidja
-  * ### Additional Links
+  * Additional Links
     * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg)
     *
     *
   
 * ## [THG]()
-  * ### Cours:
+  * Cours:
     *
     *
     *
     *
-  * ### TD:
+  * TD:
     *
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     * [Exam THG](https://www.facebook.com/groups/391795971018696/permalink/464410267090599/) - Lamia
     * [THG Exam](https://www.facebook.com/groups/391795971018696/permalink/464891957042430/) - Sihem
     *
-  * ### Additional Links
+  * Additional Links
     * [Revision theorie des graphe en MOOC](https://www.facebook.com/groups/391795971018696/permalink/466124713585821/) - Ilyes
     *
     *
   
   
 * ## [GL]()
-  * ### Cours:
+  * Cours:
     * [Etude OMT](https://www.facebook.com/groups/391795971018696/461303504067942/) - Mokhtar
     *
     *
     *
-  * ### TD:
+  * TD:
     *
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     * [GL exam](https://www.facebook.com/groups/391795971018696/permalink/464423283755964/) - Lamia
     *
     *
-  * ### Additional Links
+  * Additional Links
     * [UML en Français](http://uml.free.fr) - Abdeldjalil
     *
     *
   
 
 * ## [DevWeb]()
-  * ### Cours:
+  * Cours:
     *
     *
     *
     *
-  * ### TD:
+  * TD:
     *
     *
     *
     *
-  * ### Sujets:
+  * Sujets:
     * [DevWeb exam](https://www.facebook.com/groups/391795971018696/permalink/464892170375742/) - Sihem
     *
     *
-  * ### Additional Links
+  * Additional Links
     * [Quizz HTML/CSS - PHP/MySQL](http://www.qcmquiz.com/QUESTIONNAIRES/QCM-Langage-Informatique-HTML5-CSS3.php) - Khadidja
     *
     *
