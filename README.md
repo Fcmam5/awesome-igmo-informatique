@@ -26,7 +26,9 @@ Modules:
     * [Past exams of SE](https://www.facebook.com/groups/391795971018696/permalink/461397697391856/) - Khadidja
   * Additional Links
     * [Optimal Page replacement](https://www.youtube.com/watch?v=XmdgDHhx0fg&ab_channel=TechXArena) - Ryane
-    *
+    * [
+Deadlock - Banker's Algorithm
+](https://www.youtube.com/watch?v=w0LwGqffUkg) - Abdeldjalil
     *
 
 
