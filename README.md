@@ -29,7 +29,7 @@ Modules:
     * [
 Deadlock - Banker's Algorithm
 ](https://www.youtube.com/watch?v=w0LwGqffUkg) - Abdeldjalil
-    *
+    * [Operating Systems videos](https://www.youtube.com/playlist?list=PLW1OMpQZxu7xN327CJXp3CsLoNo8eco0l) - Abdeldjalil
 
 
 * ## [Aspects Juridiques]()
