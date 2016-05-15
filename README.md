@@ -30,6 +30,7 @@ Modules:
 Deadlock - Banker's Algorithm
 ](https://www.youtube.com/watch?v=w0LwGqffUkg) - Abdeldjalil
     * [Operating Systems videos](https://www.youtube.com/playlist?list=PLW1OMpQZxu7xN327CJXp3CsLoNo8eco0l) - Abdeldjalil
+    * [PDF: Architecture des machines et des systemes informatiques](https://www.facebook.com/groups/391795971018696/467134840151475/) - Abdeldjalil
 
 
 * ## [Aspects Juridiques]()
