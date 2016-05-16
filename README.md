@@ -68,7 +68,7 @@ Deadlock - Banker's Algorithm
     *
   * Additional Links
     * [Dependance fonctionnelle DF](http://www.lsis.org/sellamis/CBD%20S3.pdf) - Amine
-    *
+    * [MySQL|| بناء قواعد البيانات بكفاءة عالية ](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - Abdeldjalil
     *
 
 * ## [Réseaux]()
