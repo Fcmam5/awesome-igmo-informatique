@@ -90,7 +90,9 @@ Deadlock - Banker's Algorithm
     * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg) - Amine Ahmed Blaha
     * [ebook: Inistiation au réseaux](http://formationgratuit.yolasite.com/resources/Initiation%20aux%20reseaux.pdf) - Abdeldjalil
     * [Exercices Shanon, Nyquist...](http://perso.univ-lr.fr/fcolle/cours/Rezo/TD6_Physique_corrige.pdf) - Abdeldjalil
-    *
+    * [In 1min: 
+Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8) - Abdeldjalil
+    * 
 
 * ## [THG]()
   * Cours:
