@@ -89,6 +89,7 @@ Deadlock - Banker's Algorithm
   * Additional Links
     * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg) - Amine Ahmed Blaha
     * [ebook: Inistiation au réseaux](http://formationgratuit.yolasite.com/resources/Initiation%20aux%20reseaux.pdf) - Abdeldjalil
+    * [Exercices Shanon, Nyquist...](http://perso.univ-lr.fr/fcolle/cours/Rezo/TD6_Physique_corrige.pdf) - Abdeldjalil
     *
 
 * ## [THG]()
