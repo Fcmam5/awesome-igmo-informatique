@@ -92,7 +92,7 @@ Deadlock - Banker's Algorithm
     * [Exercices Shanon, Nyquist...](http://perso.univ-lr.fr/fcolle/cours/Rezo/TD6_Physique_corrige.pdf) - Abdeldjalil
     * [In 1min: 
 Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8) - Abdeldjalil
-    * [IP address classes 1](http://www.vlsm-calc.net/ipclasses.php), [IP address classes 2](https://en.wikipedia.org/wiki/IPv4_subnetting_reference) - Abdeldjalil
+     * [IP address classes 1](http://www.vlsm-calc.net/ipclasses.php), [IP address classes 2](https://en.wikipedia.org/wiki/IPv4_subnetting_reference) - Abdeldjalil
     * 
     
 
