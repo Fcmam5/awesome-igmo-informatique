@@ -87,8 +87,8 @@ Deadlock - Banker's Algorithm
     * [Examens et ccs de Réseaux de communication](https://www.facebook.com/groups/391795971018696/permalink/464411693757123/) - Lamia
     * [2ème test_examen+ corrigé_2015 réseau](https://www.facebook.com/groups/391795971018696/461396487391977/) - Khadidja
   * Additional Links
-    * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg)
-    *
+    * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg) - Amine Ahmed Blaha
+    * [ebook: Inistiation au réseaux](http://formationgratuit.yolasite.com/resources/Initiation%20aux%20reseaux.pdf) - Abdeldjalil
     *
 
 * ## [THG]()
