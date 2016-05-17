@@ -94,6 +94,7 @@ Deadlock - Banker's Algorithm
 Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8) - Abdeldjalil
     * [IP address classes 1](http://www.vlsm-calc.net/ipclasses.php), [IP address classes 2](https://en.wikipedia.org/wiki/IPv4_subnetting_reference) - Abdeldjalil
     * 
+    
 
 * ## [THG]()
   * Cours:
