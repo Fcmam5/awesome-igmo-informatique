@@ -130,9 +130,8 @@ Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8)
     *
   * Sujets:
     * [GL exam](https://www.facebook.com/groups/391795971018696/permalink/464423283755964/) - Lamia
-    * []() - Abdeldjalil
-    * []() - Abdeldjalil
-    * []() - Abdeldjalil
+    * [Univ Mascara 2010](http://www.eddirasa.com/wp-content/uploads/univ/math-informatique/mi-2an-ratr-gen_lo3.jpg) - Abdeldjalil
+    * [Univ Djelfa](http://univ.ency-education.com/mi-2an-examen-gen_log1.html) - Abdeldjalil
     *
   * Additional Links
     * [UML en Français](http://uml.free.fr) - Abdeldjalil
