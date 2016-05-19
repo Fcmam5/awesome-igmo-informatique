@@ -130,12 +130,16 @@ Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8)
     *
   * Sujets:
     * [GL exam](https://www.facebook.com/groups/391795971018696/permalink/464423283755964/) - Lamia
-    *
+    * []() - Abdeldjalil
+    * []() - Abdeldjalil
+    * []() - Abdeldjalil
     *
   * Additional Links
     * [UML en Français](http://uml.free.fr) - Abdeldjalil
-    *
-    *
+    * [E-Taali: UML Darija](https://www.youtube.com/playlist?list=PLcBrXwDrVYZXMHawflXnn_EkVqvdnCX8O) - Abdeldjalil
+    * [Drek Banas: UML2](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc) - Abdeldjalil
+    * [TutorialsPoint's PDF](http://www.tutorialspoint.com/uml/uml_tutorial.pdf) - Abdeldjalil
+    * [Univ Paris: UML cours](http://www-lipn.univ-paris13.fr/~gerard/docs/cours/uml-cours-slides.pdf) - Abdeldjalil
 
 
 * ## [DevWeb]()
