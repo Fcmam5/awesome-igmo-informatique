@@ -139,6 +139,10 @@ Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8)
     * [Drek Banas: UML2](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc) - Abdeldjalil
     * [TutorialsPoint's PDF](http://www.tutorialspoint.com/uml/uml_tutorial.pdf) - Abdeldjalil
     * [Univ Paris: UML cours](http://www-lipn.univ-paris13.fr/~gerard/docs/cours/uml-cours-slides.pdf) - Abdeldjalil
+    * [DFD: Aarabic PDF](http://www.mediafire.com/download/1rb8sbap2bc06ic/%D8%AF%D8%A7%D8%AA%D8%A7+%D9%81%D9%84%D9%88+%D8%AF%D9%8A%D8%AC%D8%B1%D8%A7%D9%85.rar) - Abdeldjalil
+    * [
+How to create a Data Flow Diagram (DFD)
+](https://youtu.be/PF40PTJxn4Q) - Abdeldjalil
 
 
 * ## [DevWeb]()
