@@ -36,9 +36,9 @@ Deadlock - Banker's Algorithm
 * ## [Aspects Juridiques]()
   * Cours:
     * [Cours Aspects_Juridiques v1](https://www.facebook.com/groups/391795971018696/435750643289895/) - Nesrine
-    * 
-    * 
-    * [Resumer](https://drive.google.com/drive/folders/0B0Fv9X0lrjMTT2xMei1pdHFRTzA) - Sarah 
+    *
+    *
+    * [Resumer](https://drive.google.com/drive/folders/0B0Fv9X0lrjMTT2xMei1pdHFRTzA) - Sarah
 
   * Sujets:
     *
@@ -68,7 +68,7 @@ Deadlock - Banker's Algorithm
     *
   * Additional Links
     * [Dependance fonctionnelle DF](http://www.lsis.org/sellamis/CBD%20S3.pdf) - Amine
-    * [MySQL|| بناء  حخخقواعد البيانات بالية ](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - Abdeldjalil
+    * [ MySQL|| بناء قواعد البيانات بكفاءة عالية ](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - Abdeldjalil
     * [Database Systems](https://www.youtube.com/playlist?list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L) - Abdeldjalil
 
 * ## [Réseaux]()
@@ -77,8 +77,7 @@ Deadlock - Banker's Algorithm
     *
     *
     *
-  * TD: pas de corrigé
-  * 
+  * TD:
     *
     *
     *
@@ -91,11 +90,11 @@ Deadlock - Banker's Algorithm
     * [Adressage IP](https://www.youtube.com/watch?v=cF6o2Uq_gWg) - Amine Ahmed Blaha
     * [ebook: Inistiation au réseaux](http://formationgratuit.yolasite.com/resources/Initiation%20aux%20reseaux.pdf) - Abdeldjalil
     * [Exercices Shanon, Nyquist...](http://perso.univ-lr.fr/fcolle/cours/Rezo/TD6_Physique_corrige.pdf) - Abdeldjalil
-    * [In 1min: 
+    * [In 1min:
 Collision and brodcast Domain Explained very nice](https://youtu.be/SpKGvLWDoC8) - Abdeldjalil
      * [IP address classes 1](http://www.vlsm-calc.net/ipclasses.php), [IP address classes 2](https://en.wikipedia.org/wiki/IPv4_subnetting_reference) - Abdeldjalil
-    * 
-    
+    *
+
 
 * ## [THG]()
   * Cours:
